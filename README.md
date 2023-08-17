@@ -2,7 +2,8 @@
 <div align="center" style="text-align:center"> 
   <a  href="https://www.linkedin.com/in/bruno-pedrosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-<h4>Conhecimento nas seguintes linguagens de programação e frameworks:</h4>
+  </br>
+Conhecimento nas seguintes linguagens de programação e frameworks:
     <div style="display: inline_block"><br>
       <a  href="https://www.java.com" target="_blank"><img align="center" alt="Java" height="60" width="55" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"></a>
       <a  href="https://spring.io/" target="_blank"><img align="center" alt="spring" height="60" width="55" src="https://www.svgrepo.com/show/354379/spring.svg"></a>
@@ -11,7 +12,7 @@
     </div>
 </br>
 
-<h4>Conhecimento nos seguintes servicos da AWS:</h4>
+Conhecimento nos seguintes servicos da AWS:
 - ECS
 - API Gateway
 - CloudWatch
@@ -22,10 +23,10 @@
 - S3
 - EC2
 
-<h4>Conhecimento em outras ferramentas de software:</h4>
+Conhecimento em outras ferramentas de software:
 - Docker
 - Terraform
 
-<h4>Certificações:</h4>
+Certificações:
 - AWS Developer Associate (ano 2021)
 - Java 8 (ano 2015)
