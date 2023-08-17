@@ -7,8 +7,8 @@ Conhecimento nas seguintes linguagens de programação e frameworks:
     <div style="display: inline_block"><br>
       <a  href="https://www.java.com" target="_blank"><img align="center" alt="Java" height="60" width="55" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"></a>
       <a  href="https://spring.io/" target="_blank"><img align="center" alt="spring" height="60" width="55" src="https://www.svgrepo.com/show/354379/spring.svg"></a>
-      <a  href="https://angular.io" target="_blank"><img align="center" alt="angular" height="60" width="70" src="https://www.svgrepo.com/show/353398/angular.svg"></a>
       <a  href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="typescript" height="55" width="45" src="https://www.svgrepo.com/show/349540/typescript.svg"></a>
+      <a  href="https://angular.io" target="_blank"><img align="center" alt="angular" height="60" width="70" src="https://www.svgrepo.com/show/353398/angular.svg"></a>      
     </div>
 </br>
 
