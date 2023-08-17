@@ -25,5 +25,5 @@ Conhecimento em outras ferramentas de software:
 - Terraform
 
 Certificações:
-- AWS developer Associate (ano 2021)
+- AWS Developer Associate (ano 2021)
 - Java 8 (ano 2015)
