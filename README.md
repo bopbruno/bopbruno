@@ -19,6 +19,8 @@ Conhecimento nos seguintes servicos da AWS:
 - Security Group
 - IAM
 - Lambda
+- S3
+- EC2
 
 Conhecimento em outras ferramentas de software:
 - Docker
