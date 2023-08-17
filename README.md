@@ -13,20 +13,13 @@ Conhecimento nas seguintes linguagens de programação e frameworks:
 </br>
 
 Conhecimento nos seguintes servicos da AWS:
-- ECS
-- API Gateway
-- CloudWatch
-- LoadBalancer
-- Security Group
-- IAM
-- Lambda
-- S3
-- EC2
+- ECS / API Gateway / CloudWatch / LoadBalancer / Security Group / IAM / Lambda / S3 / EC2
 
 Conhecimento em outras ferramentas de software:
-- Docker
-- Terraform
+- Docker / Terraform
 
 Certificações:
-- AWS Developer Associate (ano 2021)
-- Java 8 (ano 2015)
+- AWS Developer Associate (ano 2021) / Java 8 (ano 2015)
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bopbruno&show_icons=true&theme=gotham" alt="bopbruno" />
