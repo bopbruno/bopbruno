@@ -11,7 +11,7 @@
     </div>
 </br>
 
-Conhecimento nos seguintes servicos da AWS:
+<h4>Conhecimento nos seguintes servicos da AWS:</h4>
 - ECS
 - API Gateway
 - CloudWatch
@@ -22,10 +22,10 @@ Conhecimento nos seguintes servicos da AWS:
 - S3
 - EC2
 
-Conhecimento em outras ferramentas de software:
+<h4>Conhecimento em outras ferramentas de software:</h4>
 - Docker
 - Terraform
 
-Certificações:
+<h4>Certificações:</h4>
 - AWS Developer Associate (ano 2021)
 - Java 8 (ano 2015)
