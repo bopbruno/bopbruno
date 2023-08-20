@@ -1,4 +1,3 @@
-<h2 align="center">Bruno Pedrosa - Engenheiro de Software</h2>
 <div align="center" style="text-align:center"> 
   <a  href="https://www.linkedin.com/in/bruno-pedrosa" target="_blank"><img height="25" width="95" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
