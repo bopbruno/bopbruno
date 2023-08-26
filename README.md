@@ -2,7 +2,7 @@
   <a  href="https://www.linkedin.com/in/bruno-pedrosa" target="_blank"><img height="25" width="95" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   </br>
-Linguagens e ferramentas:
+Linguagens e ferramenta:
     <div style="display: inline_block"><br>
       <a  href="https://www.java.com" target="_blank"><img align="center" alt="Java" height="60" width="55" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"></a>
       <a  href="https://spring.io/" target="_blank"><img align="center" alt="spring" height="60" width="55" src="https://www.svgrepo.com/show/354379/spring.svg"></a>
