@@ -19,6 +19,3 @@ Conhecimento em outras ferramentas de software:
 
 Certificações:
 - AWS Developer Associate (ano 2021) / Java 8 (ano 2015)
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bopbruno&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="bopbruno's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bopbruno&layout=compact&theme=buefy&hide_border=true" /></a> |
